@@ -18,4 +18,4 @@ std::cout << "All hail emperor " << emperor.as<std::string>() << "!";
 ```
 
 ## License
-[Boost Software License 1.0](LICENCE)
+[Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0/)
